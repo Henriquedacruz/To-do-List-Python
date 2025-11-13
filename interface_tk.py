@@ -91,7 +91,7 @@ class App(ctk.CTk):
         nova_pos = index + direcao
         if 0 <= nova_pos < len(self.g.tarefas):
             self.g.tarefas[index], self.g.tarefas[nova_pos] = self.g.tarefas[nova_pos], self.g.tarefas[index]
-            # mover só altera a ordem visual, não afeta o banco
+            
             self.atualizar_lista()
 
 if __name__ == "__main__":

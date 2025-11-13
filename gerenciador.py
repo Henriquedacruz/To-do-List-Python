@@ -22,5 +22,5 @@ class Gerenciador:
 
 
     def salvar(self):
-        # compatibilidade com código antigo — apenas recarrega as tarefas
+        
         self.tarefas = obter_tarefas()
