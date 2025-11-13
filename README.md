@@ -1,6 +1,4 @@
-# To-do-List-Python
-
-# Check List BD ✔️
+# To-do-List-Python ✔️
 
 Um gerenciador de tarefas simples feito em **Python + Tkinter**,
 utilizando um banco de dados **SQLite (tarefas.db)** para armazenar
