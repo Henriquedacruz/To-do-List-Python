@@ -63,4 +63,4 @@ Para resetar, basta deletar `tarefas.db`.
 -   Adicionar Try except
 -   Gráfico de progresso
 -   Cards diários 
--   Post-it na fixados na área de trabalho
+-   Post-it fixados na área de trabalho
